@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeynepaksuu&show_icons=true&locale=en" alt="zeynepaksuu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeynepaksuu&" alt="zeynepaksuu" /></p>
+
+![GitHub Snake](https://github.com/zeynepaksuu/zeynepaksuu/blob/output/github-contribution-grid-snake.svg)
+
