@@ -1,16 +1,3 @@
-<h1 align="center">Hi 👋, I'm Zeynep</h1>
-<h3 align="center">A passionate backend developer from Türkiye</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepaksuu&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepaksuu" /> </p>
-
-- 🔭 I’m currently working on **vetManager**
-
-- 🌱 I’m currently learning **microservices architecture, database design and management, and Spring Boot to build scalable and efficient backend systems.**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/zeyynobe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zeyynobe" height="30" width="40" /></a>
